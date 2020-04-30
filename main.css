@@ -10,7 +10,7 @@ body{
     Top:0px;
     Left:0px;
     Right:0px;
-    height:50px;
+    height:30%;
     Width:100%;
     align-items:center;
     Color:aqua;
@@ -28,13 +28,14 @@ body{
 
 H1{
     margin-left:45%;
+    font-size:2.5em;
 }
 
 #t{
     Width:100%;
     height:80px;
     background-color: blanchedalmond;
-    font-size:1.5em;
+    font-size:2em;
     Color:green;
     font-weight:900;
     Position:relative;
