@@ -1,0 +1,50 @@
+body{
+    background-color:blueviolet;
+    height:100%;
+    Width:100%;
+}
+
+#h{
+    position:fixed;
+    display:flex;
+    Top:0px;
+    Left:0px;
+    Right:0px;
+    height:50px;
+    Width:100%;
+    align-items:center;
+    Color:aqua;
+    background-color:darkmagenta;
+}
+
+#p{
+     Position:relative;
+    padding:5px;
+    height:300px;
+    Width:100vw;
+    margin-top:70px;
+    Color:aliceblue;
+}
+
+H1{
+    margin-left:45%;
+}
+
+#t{
+    Width:100%;
+    height:80px;
+    background-color: blanchedalmond;
+    font-size:1.5em;
+    Color:green;
+    font-weight:900;
+    Position:relative;
+    Left:0;
+    margin-top:70px;
+    text-align:center;
+    border-radius:20px;
+}
+
+
+
+
+
