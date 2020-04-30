@@ -19,6 +19,7 @@ body{
 
 #p{
      Position:relative;
+    Margin-top:35%
     padding:5px;
     height:300px;
     Width:100vw;
@@ -28,7 +29,7 @@ body{
 
 H1{
     margin-left:45%;
-    font-size:2.5em;
+    font-size:3.5em;
 }
 
 #t{
