@@ -19,7 +19,8 @@ body{
 
 #p{
      Position:relative;
-    Margin-top:35%;
+    font-size:2em;
+    margin-top:35%;
     padding:5px;
     height:300px;
     Width:100vw;
@@ -29,14 +30,14 @@ body{
 
 H1{
     margin-left:45%;
-    font-size:3.5em;
+    font-size:4em;
 }
 
 #t{
     Width:100%;
     height:80px;
     background-color: blanchedalmond;
-    font-size:2em;
+    font-size:2.5em;
     Color:green;
     font-weight:900;
     Position:relative;
